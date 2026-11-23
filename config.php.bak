@@ -1,0 +1,6 @@
+﻿<?php
+// Config temporaire - a supprimer avant la prod
+define('INTERNAL_DOMAIN', 'medhicloud.local');
+define('SUPPORT_PORTAL', 'http://web.medhicloud.local');
+define('ADMIN_CONTACT', 'webmaster@medhicloud.local');
+?>
